@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+.env.*
+
+# Uploaded documents
+backend/uploads/*
+
+# React
+node_modules/
+dist/
+
+# Editors
+.vscode/
+.idea/
