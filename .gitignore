@@ -20,3 +20,7 @@ dist/
 # Editors
 .vscode/
 .idea/
+
+.env
+.env.*
+backend/.env

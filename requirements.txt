@@ -4,3 +4,5 @@ uvicorn
 pymupdf
 pydantic-settings
 httpx
+openai
+python-dotenv
